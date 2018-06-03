@@ -1,0 +1,4 @@
+ionic start myApp02 tabs
+
+
+ionic serve
